@@ -1,40 +1,38 @@
-# Linn Latt Win Win
+<h1 align="center">Linn Latt Win Win</h1>
 
-Full Stack Developer from Myanmar  
-Focused on building responsive web applications, scalable APIs, admin dashboards, and clean user experiences.
+<p align="center">
+  Full Stack Developer
+</p>
 
 ---
 
-## About Me
+```ts
+const linnlatt = {
+  location: "Myanmar",
+  role: "Full Stack Developer",
 
-Junior Full Stack Developer with hands-on experience building:
+  currentlyLearning: [ "Linux", "Data Structure" ],
 
-- Responsive web applications
-- RESTful APIs
-- CMS systems
-- Admin dashboards
-- Business applications
+  focus: "Clean UI & scalable applications"
+}
 
-Interested in clean architecture, scalable systems, API integration, and continuous learning.
+```
 
 ---
 
 ## Tech Stack
 
 ### Frontend
-- TypeScript | JavaScript
-- React.js | Next.js | Vue.js
-- Tailwind CSS
+`React` `Next.js` `Vue.js` `TypeScript` `JavaScript` `Tailwind CSS`
 
 ### Backend
-- PHP | Laravel | REST APIs
+`Laravel` `PHP` `REST API`
 
-### Database & ORM
-- MySQL | MongoDB | Prisma
+### Database
+`MySQL` `MongoDB` `Prisma`
 
 ### Tools
-- Git | GitHub
-- Figma | Canva
+`Git` `GitHub` `Figma` `Canva`
 
 ---
 
