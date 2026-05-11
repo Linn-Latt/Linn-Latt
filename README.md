@@ -21,7 +21,7 @@ Interested in clean architecture, scalable systems, API integration, and continu
 
 ## Socials
 
-Linkedin: [LinkedIn](https://linkedin.com/in/Linn%20Latt%20Win%20Win)  
+Linkedin: [LinkedIn]([https://linkedin.com/in/Linn%20Latt%20Win%20Win](https://www.linkedin.com/in/linn-latt-win-win-45a44235b/))  
 Email: linnlatt.ww11@gmail.com
 
 ---
