@@ -29,30 +29,19 @@ Email: linnlatt.ww11@gmail.com
 ## Tech Stack
 
 ### Frontend
-- React.js
-- Next.js
-- Vue.js
-- TypeScript
-- JavaScript
+- TypeScript | JavaScript
+- React.js | Next.js | Vue.js
 - Tailwind CSS
-- HTML5
-- CSS3
 
 ### Backend
-- Laravel
-- PHP
-- REST APIs
+- PHP | Laravel | REST APIs
 
 ### Database & ORM
-- MySQL
-- MongoDB
-- Prisma
+- MySQL | MongoDB | Prisma
 
 ### Tools
-- Git
-- GitHub
-- Figma
-- Canva
+- Git | GitHub
+- Figma | Canva
 
 ---
 
