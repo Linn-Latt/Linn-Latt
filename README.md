@@ -1,16 +1,63 @@
-## Hi there 👋
+# Linn Latt Win Win
 
-<!--
-**Linn-Latt/Linn-Latt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer from Myanmar  
+Focused on building responsive web applications, scalable APIs, admin dashboards, and clean user experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+Junior Full Stack Developer with hands-on experience building:
+
+- Responsive web applications
+- RESTful APIs
+- CMS systems
+- Admin dashboards
+- Business applications
+
+Interested in clean architecture, scalable systems, API integration, and continuous learning.
+
+---
+
+## Socials
+
+Linkedin: [LinkedIn](https://linkedin.com/in/Linn%20Latt%20Win%20Win)  
+Email: linnlatt.ww11@gmail.com
+
+---
+
+## Tech Stack
+
+### Frontend
+- React.js
+- Next.js
+- Vue.js
+- TypeScript
+- JavaScript
+- Tailwind CSS
+- HTML5
+- CSS3
+
+### Backend
+- Laravel
+- PHP
+- REST APIs
+
+### Database & ORM
+- MySQL
+- MongoDB
+- Prisma
+
+### Tools
+- Git
+- GitHub
+- Figma
+- Canva
+
+---
+
+## GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Linn-Latt&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
