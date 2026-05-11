@@ -19,13 +19,6 @@ Interested in clean architecture, scalable systems, API integration, and continu
 
 ---
 
-## Socials
-
-Linkedin: [LinkedIn](https://www.linkedin.com/in/linn-latt-win-win-45a44235b/)  
-Email: linnlatt.ww11@gmail.com
-
----
-
 ## Tech Stack
 
 ### Frontend
