@@ -23,16 +23,19 @@ const linnlatt = {
 ## Tech Stack
 
 ### Frontend
-`React` `Next.js` `Vue.js` `TypeScript` `JavaScript` `Tailwind CSS`
+`React` `Next.js` `Vue.js` `TypeScript` `JavaScript`
 
 ### Backend
 `Laravel` `PHP` `REST API`
 
 ### Database
-`MySQL` `MongoDB` `Prisma`
+`MySQL` `MongoDB`
+
+### ORM / Database Tools
+`Prisma`
 
 ### Tools
-`Git` `GitHub` `Figma` `Canva`
+`Git` `GitHub` 
 
 ---
 
